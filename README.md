@@ -78,5 +78,5 @@ If everything is set up correctly, you should see your new app running in the An
 
 🔗 Download the APK
 
-https://github.com/abhibhat33/TimerApp/releases/download/v1.0/app-release.apk
+https://github.com/abhibhat33/TimerAppRN/releases/download/v1.0/app-release.apk
 
