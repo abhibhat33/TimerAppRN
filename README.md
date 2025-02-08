@@ -10,7 +10,7 @@ TimerApp is a React Native-based timer application. This repository contains the
 - User can start, pause, reset and delete timers.
 - Added bulk actions, progress visualization, and user alerts for an enhanced user experience
 - Added Dark mode support
-- 
+  
 
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
